@@ -69,4 +69,5 @@ Para fazer o import no Postman, siga os passos abaixo:
 
 
 ## Referências
-- [Alura](https://cursos.alura.com.br/course/go-gin-api-rest-simplicidade)
+- [Alura - Rest com Gin](https://cursos.alura.com.br/course/go-gin-api-rest-simplicidade)
+- [Alura - Validação de Testes](https://cursos.alura.com.br/course/go-validacoes-testes-paginas-html)
